@@ -1,5 +1,2 @@
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-
-nothing to commit, working tree clean
+[main 7f7146d] this is the my first file
+ 1 file changed, 5 insertions(+)
